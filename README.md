@@ -19,12 +19,13 @@ Tkinter (biblioteca gráfica para Python)
 ## Como Usar
 
 1-Clone este repositório em sua máquina local.
+
 2-Certifique-se de ter o Python 3.x instalado em sua máquina.
-3-Instale a biblioteca Tkinter, caso ainda não tenha instalado. Você pode fazer isso usando o gerenciador de pacotes da sua distribuição Python, como pip:
-pip install tk
+
+3-Instale a biblioteca Tkinter, caso ainda não tenha instalado.
+Você pode fazer isso usando o gerenciador de pacotes da sua distribuição Python, como pip: pip install tk
 
 4-Navegue até o diretório onde você clonou este repositório e execute o arquivo banco_interface.py:
-
 python banco_interface.py
 
 5-O sistema bancário será aberto em uma interface gráfica. A partir daí, você pode interagir com as diferentes funcionalidades disponíveis.
