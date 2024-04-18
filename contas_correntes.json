@@ -1,0 +1,42 @@
+[
+    {
+        "agencia": "0001",
+        "numero_conta": "001",
+        "usuario": {
+            "nome": "Neymar",
+            "data_nascimento": "01/01/1990",
+            "endereco": "Rua Exemplo - Bairro Teste - Cidade/UF",
+            "cpf": "12345678900"
+        }
+    },
+    {
+        "agencia": "0001",
+        "numero_conta": "002",
+        "usuario": {
+            "nome": "Yuri Alberto",
+            "data_nascimento": "02/02/1980",
+            "endereco": "Avenida Teste - Bairro Exemplo - Cidade2/UF2",
+            "cpf": "98765432100"
+        }
+    },
+    {
+        "agencia": "0001",
+        "numero_conta": "3",
+        "usuario": "",
+        "saldo": 0,
+        "limite": 500,
+        "extrato": "",
+        "numero_saques": 0,
+        "LIMITE_SAQUES": 3
+    },
+    {
+        "agencia": "0001",
+        "numero_conta": "4",
+        "usuario": "Hulk",
+        "saldo": 400.0,
+        "limite": 500,
+        "extrato": "Dep\u00f3sito: R$ 200.00\nDep\u00f3sito: R$ 200.00\n",
+        "numero_saques": 0,
+        "LIMITE_SAQUES": 3
+    }
+]
